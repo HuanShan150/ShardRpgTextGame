@@ -94,8 +94,8 @@ it was made.
 
 ## Authors
 
-* **Huan Shan** - [GitHub profile](https://github.com/HuanShan150)
-* **Bruno Manarin** - [My portifolio](https://brunomanarin.github.io/)
+* **Huan Shan** - [My portifolio](https://github.com/HuanShan150)
+* **Bruno Manarin** - [GitHub profile](https://brunomanarin.github.io/)
 
 
 ## License
